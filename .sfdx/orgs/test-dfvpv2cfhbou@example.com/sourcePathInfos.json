@@ -1,0 +1,350 @@
+[
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app",
+        {
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579591423691,
+            "changeTime": 1579591423691,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579591423692,
+            "changeTime": 1579591423692,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089999,
+            "changeTime": 1579593089999,
+            "contentHash": "04904c11fa11969811efa8c7a33dd8b33da2e637"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579591423718,
+            "changeTime": 1579591423718,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089954,
+            "changeTime": 1579593089954,
+            "contentHash": "1b8c87d0fe6ea1b268243406ccbb971e83e361eb"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089945,
+            "changeTime": 1579593089945,
+            "contentHash": "6983ab7e03fd06ef183143afdc9d817238d7a2e0"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089946,
+            "changeTime": 1579593089946,
+            "contentHash": "1be02de3a44c87a90e7e10a8ab5bd397b6bee6b3"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields\\Course_Instructor__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields\\Course_Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1579591423736,
+            "changeTime": 1579591423736,
+            "contentHash": "811547d55dcf759c2157afff566eafdd69f04856",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX",
+        {
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579591423749,
+            "changeTime": 1579591453330,
+            "contentHash": "bf3bd632254f4d9ad9eea875562aec9c5fe77f6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\Language_Course__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\Language_Course__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2093,
+            "modifiedTime": 1579593089946,
+            "changeTime": 1579593089946,
+            "contentHash": "dd0012f9dc2538937a2b9f66ef0d5bf1eca6477f"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields\\Duration__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course__c\\fields\\Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1579593089947,
+            "changeTime": 1579593089947,
+            "contentHash": "9bc2ab72a4bfdef293fba9c603bdfeb58ae44e6c"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course_Instructor__c\\Language_Course_Instructor__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course_Instructor__c\\Language_Course_Instructor__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2117,
+            "modifiedTime": 1579593089956,
+            "changeTime": 1579593089956,
+            "contentHash": "27a9f1f5fc785f6a6a3d649b74bde76868be8ec6"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts\\Language_Course_Instructor__c-Language Course Instructor Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts\\Language_Course_Instructor__c-Language Course Instructor Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1579593089962,
+            "changeTime": 1579593089962,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts\\Language_Course__c-Language Course Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts\\Language_Course__c-Language Course Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2159,
+            "modifiedTime": 1579593089974,
+            "changeTime": 1579593089974,
+            "contentHash": "47e734fbe1a70f498427e9ec450eaa21c59a8e3b"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Language_Course__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Language_Course__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 389,
+            "modifiedTime": 1579593089981,
+            "changeTime": 1579593089981,
+            "contentHash": "d3d7f2c052e24395bb7c4ecfe3205725a5c290a2"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Course_Instructor__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Course_Instructor__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 291,
+            "modifiedTime": 1579593089986,
+            "changeTime": 1579593089986,
+            "contentHash": "ed963bdaa0ad6640564b46007767941e9d86ebff"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Duration__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US\\Duration__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1579593089992,
+            "changeTime": 1579593089992,
+            "contentHash": "ac53c34e405f3755b99b4f42132b5e01b99db0d8"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5203,
+            "modifiedTime": 1579593090002,
+            "changeTime": 1579593090002,
+            "contentHash": "c6fdf8292aaa302c78f825bdea2e25f482a49d89"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4865,
+            "modifiedTime": 1579593090010,
+            "changeTime": 1579593090010,
+            "contentHash": "9bc401c65315b8e794a4f764bf9cda8baee3e6b5"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4865,
+            "modifiedTime": 1579593090027,
+            "changeTime": 1579593090027,
+            "contentHash": "9bc401c65315b8e794a4f764bf9cda8baee3e6b5"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20659,
+            "modifiedTime": 1579593090041,
+            "changeTime": 1579593090041,
+            "contentHash": "1cb1267c94cf715b67cba24d224cf66049b31e37"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course_Instructor__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objects\\Language_Course_Instructor__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089956,
+            "changeTime": 1579593089956,
+            "contentHash": "05a9a9f0129e3a5aefa8e6b2ded5b469c6b46e0f"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089969,
+            "changeTime": 1579593089969,
+            "contentHash": "b7133b2c52eabfc41ef16c17f2e62fb77c0bc4e0"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations\\Language_Course__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089987,
+            "changeTime": 1579593089987,
+            "contentHash": "7967287b6e6799bb9a36a515cee3ba8889a91761"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593089979,
+            "changeTime": 1579593089979,
+            "contentHash": "f6e4e0f28138a3b61671ff1c454aa1b01b9434bc"
+        }
+    ],
+    [
+        "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Arif_IMP\\SalesforceDXPractise\\SampleDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579593090039,
+            "changeTime": 1579593090039,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
